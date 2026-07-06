@@ -81,23 +81,27 @@ Some important observations from the analysis include:
 
 ## 🖼️ Sample Visualizations
 
-> *(Add screenshots of your graphs here after saving them from your notebook.)*
-
 ### Correlation Heatmap
+This heatmap shows the correlation between key housing features and house prices, helping identify which variables have the strongest relationships.
 
-![Correlation Heatmap](images/heatmap.png)
+![Heatmap](images/Heatmap.png)
 
 ---
 
 ### House Price Distribution
+This histogram illustrates how house prices are distributed across the dataset and highlights the overall pricing pattern.
 
-![Price Distribution](images/price_distribution.png)
+![Distribution_of_price](images/Distribution_of_price.png)
 
 ---
 
-### Area vs House Price
+### 🏠 House Size vs House Price
 
-![Area vs Price](images/area_vs_price.png)
+This scatter plot shows the relationship between **house size (square feet)** and **house price**, indicating that larger houses generally tend to have higher prices.
+
+![size_sqft vs Price](images/size_sqft_vs_price.png)
+
+
 
 ---
 
