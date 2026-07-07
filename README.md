@@ -23,11 +23,12 @@ The project focuses on cleaning the dataset, analyzing feature relationships, de
 ## 📂 Dataset Features
 
 The dataset contains information about residential properties, including:
-
+- City
+- BHK
 - Area (Square Feet)
-- Number of Bedrooms
-- Number of Bathrooms
 - Location Rating
+- hospital_distance
+- school_distance
 - Amenities Score
 - Property Age
 - Parking Availability
