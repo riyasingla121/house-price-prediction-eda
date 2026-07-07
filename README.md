@@ -91,7 +91,7 @@ This heatmap shows the correlation between key housing features and house prices
 ### House Price Distribution
 This histogram illustrates how house prices are distributed across the dataset and highlights the overall pricing pattern.
 
-![Distribution_Price](images/Distribution_Price.png)
+![Distribution of house Price](images/distribution_Price.png)
 
 
 
