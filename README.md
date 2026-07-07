@@ -7,6 +7,12 @@ House prices are influenced by several factors such as location, area, amenities
 The project focuses on cleaning the dataset, analyzing feature relationships, detecting outliers, and visualizing patterns that can help prepare the data for future machine learning models.
 
 ---
+## 📊 Dataset
+
+- Dataset: Indian House Price Dataset
+- Records:5000
+- Features:10+
+- Target Variable:House Price
 
 ## 🎯 Objectives
 
@@ -79,6 +85,9 @@ Some important observations from the analysis include:
 - 📊 A few luxury properties were identified as outliers during analysis.
 
 ---
+## 📌 Results
+
+The exploratory analysis identified the most influential factors affecting house prices, including property area, location rating, parking availability, and furnishing status. The analysis also revealed the presence of outliers and feature correlations that can support future predictive modeling.
 
 ## 🖼️ Sample Visualizations
 
@@ -111,18 +120,19 @@ This scatter plot shows the relationship between **house size (square feet)** an
 
 ## 📁 Project Structure
 
-```
+```text
 house-price-prediction-eda/
 │
-├── House_Price_EDA.ipynb
-├── Indian_House_Price_Dataset.csv
+├── House-price-EDA.ipynb
+├── Indian_House_PriceDataset.csv
 ├── README.md
 ├── requirements.txt
+├── .gitignore
+├── .gitattributes
 └── images/
-    ├── heatmap.png
-    ├── price_distribution.png
-    └── area_vs_price.png
-```
+    ├── Heatmap.png
+    ├── distribution_price.png
+    └── size_sqft_vs_price.png
 
 ---
 
@@ -180,6 +190,13 @@ The insights gained from this analysis provide a strong foundation for building 
 ## 👩‍💻 Author
 
 **Riya Singla**
+
+## 🔗 Related Project
+
+This EDA project serves as the foundation for my Machine Learning project, where predictive models are trained to estimate house prices.
+
+➡️ **House Price Prediction – Machine Learning:**  
+https://github.com/riyasingla121/house-price-prediction-ml
 
 Aspiring Data Analyst | Python | SQL | Machine Learning
 
